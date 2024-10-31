@@ -1,0 +1,4 @@
+.kaenv
+__pycache__
+data/
+*.docx
